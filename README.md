@@ -1,17 +1,15 @@
-# 👋 I'm MrCappy
+# MrCappy
 
-Founder of **Cappy Studios** & **BerryNode**  
-Minecraft Dev • Infra Nerd • Systems Builder
+Founder of Cappy Studios & BerryNode  
+Minecraft Developer • Infrastructure • Systems
 
-## 🧩 Projects
-- **DynaCraft** – Modular Minecraft MMORPG with lore, leveling, stats, and custom plugin ecosystem  
-- **BerryNode** – Premium Minecraft hosting with WHMCS billing & panel automation  
-- **Cappy License System** – IP-locked license validation with Discord delivery  
-- **Cappy License Bot** – Auto key distribution + anti-piracy enforcement  
-- **TaleCraft** – Lore-driven survival RPG server (archived)  
-- **Sea of Plenty** – Pirate-themed survival experience (WIP)  
-- **Way of the Samurai** – Feudal-era RPG with honor duels and clan systems  
-- **Eclipse Events** – Event-based Minecraft SMP platform
+## Current Projects
 
-📎 [cappystudios.com](https://cappystudios.com)  
-📬 Discord: `MrCappy1`
+**DynaCraft** - Modular Minecraft MMORPG with custom plugin ecosystem  
+**BerryNode** - Premium Minecraft hosting with automated billing and panel management  
+**Cappy License System** - IP-locked license validation with Discord integration
+
+## Contact
+
+🌐 [cappystudios.com](https://cappystudios.com)  
+💬 Discord: MrCappy1
