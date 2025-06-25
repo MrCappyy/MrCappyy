@@ -28,7 +28,6 @@ Paper, Purpur, Fabric, custom plugin APIs, data models, real NMS work.
 C, C++, Rust (if needed), SQL, Markdown, OpenGL, ImGui, a bit of everything.
 If it compiles, I’ve probably broken it at some point and fixed it better.
 
-
 ## Projects
 
 ### DynaCraft MMORPG
@@ -54,20 +53,9 @@ Sometimes I open-source things if I think they’re useful. No commissions. No f
 
 ## Contact
 
-Here’s the updated contact section with that more casual tone:
-
----
-
-## Contact
-
 Yeah idk, if it's serious: [hello@mrcappy.net](mailto:hello@mrcappy.net)
 If it’s about DynaCraft: [team@dynacraft.net](mailto:team@dynacraft.net)
 Otherwise? Don’t.
 
----
 
 *Not for hire. Don’t DM me to code something. I’m building my own shit.*
-
----
-
-Let me know if you want this stylized into a GitHub README or site landing section.
