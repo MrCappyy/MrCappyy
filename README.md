@@ -22,5 +22,3 @@ Paper, Purpur, Fabric, custom APIs, raw NMS
 
 [hello@mrcappy.net](mailto:hello@mrcappy.net)  
 [team@dynacraft.net](mailto:team@dynacraft.net)
-
-*Not for hire.*
